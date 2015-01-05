@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container">
+		<Label id="label" onClick="doClick">Hello, World</Label>
+		<View id="card"></View>
+		<View id="card2"></View>
+		<View id="card3"></View>
+	</Window>
+</Alloy>
